@@ -1,74 +1,51 @@
-# Chinaski - Víno
+{artist:Chinaski}
+{title:Víno}
+{capo:1}
+{key:C}
 
-Capo 1
+{start_of_verse}
+[C]Zase je pátek a [G]mám toho dost, tak be[B]ru kramle, za zád[F]y Černý most.
+[C]A pokud mi to D1[G] dovolí,než min[B]u Jihlavu, hodím [F]Prahu za hlavu.
+[C]Jedu jak Pražák,[G] hlava nehlava,mám je[B]diný cíl a přede [F]mnou je Pálava.
+[C]Už od Brna jsem [G]jako na trní, ta [B]sladká píseň t[G]ak blízko zní.
+{end_of_verse}
 
-## Sloha
+{start_of_chorus}
+[C]My máme rádi [G]víno, [B]milujeme k[F]rásné ženy a zpěv.
+[C]A na věc jdeme [G]přímo, [B]v žilách nám pr[F]oudí moravská krev.
+[C]My máme rádi [G]víno, [B]milujeme k[F]rásné ženy a zpěv.
+[C]A na věc jdeme [G]přímo, [B]v žilách nám pr[F]oudí moravská krev.
+{end_of_chorus}
 
-[C]             [G]                  [B]              [F]
-Zase je pátek a mám toho dost, tak beru kramle, za zády Černý most.
-[C]             [G]            [B]              [F]
-A pokud mi to D1 dovolí,než minu Jihlavu, hodím Prahu za hlavu.
-[C]             [G]                  [B]              [F]
-Jedu jak Pražák, hlava nehlava,mám jediný cíl a přede mnou je Pálava.
-[C]             [G]              [B]           [G]
-Už od Brna jsem jako na trní, ta sladká píseň tak blízko zní.
+{start_of_grid}
+| C . . . | G . . . | B . . . | F . . . |    
+{end_of_grid}
 
-## Refrén
-
-[C]          [G]   [B]       [F]
-My máme rádi víno, milujeme krásné ženy a zpěv.
-[C]            [G]    [B]            [F]
-A na věc jdeme přímo, v žilách nám proudí moravská krev.
-[C]          [G]   [B]       [F]
-My máme rádi víno, milujeme krásné ženy a zpěv.
-[C]            [G]    [B]            [F]
-A na věc jdeme přímo, v žilách nám proudí moravská krev.
-
-## Prechod
-
-[C] [G] [B] [F]
-
-## Sloha
-
-[C]            [G]       [B]                   [F]
-Jako papír hodím práci a všechny šéfy za hlavu,
-[C]            [G]       [B]                   [F]
-pánové, omlouvám se, ale já mizím na Moravu.
-[C]                  [G]              [B]                [F]
-Najdu tam všechno, co mi doma schází, dobrý lid a klid a řád.
-[C]                  [G]               [B]                [G]
-Najdu tam všechno, co na světě mám rád, vodu, slunce a nekonečný vinohrad.
+{start_of_verse}
+[C]Jako papír hodí[G]m práci a [B]všechny šéfy za hlavu,[F]
+[C]pánové, omlouvá[G]m se, ale [B]já mizím na Moravu. [F]    
+[C]Najdu tam všechno, co[G] mi doma schází, [B]dobrý lid a klid a [F]řád.
+[C]Najdu tam všechno, co[G] na světě mám rád,[B] vodu, slunce a nek[G]onečný vinohrad.
+{end_of_verse}
  
-## Refrén
+{start_of_chorus}
+[C]My máme rádi [G]víno, [B]milujeme k[F]rásné ženy a zpěv.
+[C]A na věc jdeme [G]přímo, [B]v žilách nám pr[F]oudí moravská krev.
+[C]My máme rádi [G]víno, [B]milujeme k[F]rásné ženy a zpěv.
+[C]A na věc jdeme [G]přímo, [B]v žilách nám pr[F]oudí moravská krev.
 
-[C]          [G]   [B]       [F]
-My máme rádi víno, milujeme krásné ženy a zpěv.
-[C]            [G]    [B]            [F]
-A na věc jdeme přímo, v žilách nám proudí moravská krev.
-[C]          [G]   [B]       [F]
-My máme rádi víno, milujeme krásné ženy a zpěv.
-[C]            [G]    [B]            [F]
-A na věc jdeme přímo, v žilách nám proudí moravská krev.
+[C]My tady totiž[G] máme [B]všechno, co na[F] světě máš rád.
+[C]A ochutnat ti[G] dáme, [B]slunce a nekon[F]ečný vinohrad.
+{end_of_chorus}
 
-[C]          [G]   [B]           [F]
-My tady totiž máme všechno, co na světě máš rád.
-[C]          [G]    [B]           [F]
-A ochutnat ti dáme, slunce a nekonečný vinohrad.
-
-## Medzihra
-
-[Emi]             [F]                  [G]
-Tak se tu žije na padesátý rovnoběžce, v mírném klima našeho podnebí.
-[Emi]             [F]      [G]
-Je krásné nemít nikdy dost a dělat věci jen tak pro radost.
+{start_of_verse}
+[Emi]Tak se tu žije na [F]padesátý rovnoběžce, [G]v mírném klima našeho podnebí.
+[Emi]Je krásné nemít ni[F]kdy dost [G]a dělat věci jen tak pro radost.
+{end_of_verse}
  
-## Refrén
-
-[C]          [G]   [B]       [F]
-My máme rádi víno, milujeme krásné ženy a zpěv.
-[C]            [G]    [B]            [F]
-A na věc jdeme přímo, v žilách nám proudí moravská krev.
-[C]          [G]   [B]       [F]
-My máme rádi víno, milujeme krásné ženy a zpěv.
-[C]            [G]    [B]            [F]
-A na věc jdeme přímo, v žilách nám proudí moravská krev.
+{start_of_chorus}
+[C]My máme rádi [G]víno, [B]milujeme k[F]rásné ženy a zpěv.
+[C]A na věc jdeme [G]přímo, [B]v žilách nám pr[F]oudí moravská krev.
+[C]My máme rádi [G]víno, [B]milujeme k[F]rásné ženy a zpěv.
+[C]A na věc jdeme [G]přímo, [B]v žilách nám pr[F]oudí moravská krev.
+{end_of_chorus}

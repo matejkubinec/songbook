@@ -1,7 +1,11 @@
 {artist:Desmod}
 {title:Hemeroidy}
 
-Vyhrávka | [G] [C] [G] [D] | [G] [C] [G] [D]
+{start_of_grid:Intro}
+| . . . . | . . . . | . . . . | . . . . |
+| G . . . | C . . . | G . . . | D . . . |
+| G . . . | C . . . | G . . . | D . . . |
+{end_of_grid}
 
 {start_of_verse}
 [G]Urči si svoj cieľ,[C] a k druhým slušný buď,
@@ -45,7 +49,11 @@ budeš[C] vyškrtnutý z rodinnej výplatnej listiny,
 [G]a to je[D] vraj [G]zlé.   [D]
 {end_of_chorus}
 
-[G] | [C] | [G] | [D] | [G] | [C] | [G] [D] (ako sloha)
+{comment:Ako sloha}
+{start_of_grid: Sólo}
+| G . . . | C . . . | G . . . | D . . . |
+| G . . . | C . . . | G . . . | D . . . |
+{end_of_grid}
 
 {start_of_chorus}
 Do hláv nám tlačia všelijaké kydy,

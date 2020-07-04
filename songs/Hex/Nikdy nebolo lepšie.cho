@@ -1,99 +1,70 @@
-# Hex - Nikdy nebolo lepšie
+{artist:Hex}
+{title:Nikdy nebolo lepšie}
 
-#### Intro
+{start_of_grid}
+| [A] . . . | [Emi] . . . | [G] . . . | [D] . . . |
+| [A] . . . | [Emi] . . . | [G] . . . | [D] . . . |    
+{end_of_grid}
 
-(intro gitara) | [A] [Emi] [G] [D] | [A] [Emi] [G] [D]
+{start_of_verse}
+[A]Zdá sa že je [Emi]všetko ako má byť
+[G]vo vzduchu cí[D]tiť jasný deň
+[A]k oblohe stúp[Emi]a pomaly dym
+[G]hostia prídu [D]o piatej.
 
-#### Sloha
+[A]Vstup bez váž[Emi]nych názorov
+[G]dnes sa budem[D]e zabávať
+[A]po tme blúdiť[Emi] záhradou
+[G]kým noc nesko[D]nčí...
+{end_of_verse}
 
-[A]==========[Emi]
-Zdá sa že je všetko ako má byť
-[G]==========[D]
-vo vzduchu cítiť jasný deň
-[A]==========[Emi]
-k oblohe stúpa pomaly dym
-[G]==========[D]
-hostia prídu o piatej.
+{start_of_grid}
+| [A] . . . | [Emi] . . . | [G] . . . | [D] . . . |
+| [A] . . . | [Emi] . . . | [G] . . . | [D] . . . |    
+{end_of_grid}
 
-[A]==========[Emi]
-Vstup bez vážnych názorov
-[G]==========[D]
-dnes sa budeme zabávať
-[A]==========[Emi]
-po tme blúdiť záhradou
-[G]==========[D]
-kým noc neskončí...
+{start_of_verse}
+[A]Dnes budeme d[Emi]ýchať ten najlepší vzduch
+[G]nech nás hlav[D]a nebolí.
+[A]Len s príjemn[Emi]ých vecí je veselý duch
+[G]po nás mesiac[D] zahoríí.
 
-#### Intro
+[A]Vstup bez nud[Emi]ných nápadov
+[G]dnes sa budem[D]e zabávať
+[A]po tme blúdiť[Emi] záhradou
+[G]kým noc nesko[D]nčí...
+{end_of_verse}
 
-[A] [Emi] [G] [D] | [A] [Emi] [G] [D]
+{start_of_grid}
+| [B] . . . | . . . . | [A] . . . | . . . . |
+{end_of_grid}
 
-#### Sloha
+{start_of_chorus}
+[E]Nikdy nebolo [G]lepšie, ako v [D]túto noc nech [A]trvá večne.
+[E]Celé nebo je [G]jasné, až do r[D]ána pokiaľ mes[A]iac zhasne.
+[E]Nikdy nebolo [G]lepšie, ako v [D]túto noc nech [A]trvá večne.
+[E]Celé nebo je [G]jasné, až do r[D]ána pokiaľ mes[A]iac zhasne.
+{end_of_chorus}
 
-[A]==========[Emi]
-Dnes budeme dýchať ten najlepší vzduch
-[G]==========[D]
-nech nás hlava nebolí.
-[A]==========[Emi]
-Len s príjemných vecí je veselý duch
-[G]==========[D]
-po nás mesiac zahoríí.
+{start_of_verse}
+[A]Z rádia hučí [Emi]otravný hit
+[G]tma sa blíži [D]verandou
+[A]niekto sa hád[Emi]a a všetci chcú žiť
+[G]v hluku strác[D]am význam slooov.
 
-[A]==========[Emi]
-Vstup bez nudných nápadov
-[G]==========[D]
-dnes sa budeme zabávať
-[A]==========[Emi]
-po tme blúdiť záhradou
-[G]==========[D]
-kým noc neskončí...
+[A]Vstup bez váž[Emi]nych názrov
+[G]dnes sa budem[D]e zabávať
+[A]v kruhu známy[Emi]ch a ich psov
+[G]kým noc nesko[D]nči...
+{end_of_verse}
 
-#### Prerefrén
+{start_of_grid}
+| [B] . . . | . . . . | [A] . . . | . . . . |
+{end_of_grid}
 
-[B] [A]
-
-#### Refrén
-
-[E]==========[G]===========[D]===========[A]
-Nikdy nebolo lepšie, ako v túto noc nech trvá večne.
-[E]==========[G]===========[D]===========[A]
-Celé nebo je jasné, až do rána pokiaľ mesiac zhasne.
-[E]==========[G]===========[D]===========[A]
-Nikdy nebolo lepšie, ako v túto noc nech trvá večne.
-[E]==========[G]===========[D]===========[A]
-Celé nebo je jasné, až do rána pokiaľ mesiac zhasne.
-
-#### Sloha
-
-[A]==========[Emi]
-Z rádia hučí otravný hit
-[G]==========[D]
-tma sa blíži verandou
-[A]==========[Emi]
-niekto sa háda a všetci chcú žiť
-[G]==========[D]
-v hluku strácam význam slooov.
-
-[A]==========[Emi]
-Vstup bez vážnych názrov
-[G]==========[D]
-dnes sa budeme zabávať
-[A]==========[Emi]
-v kruhu známych a ich psov
-[G]==========[D]
-kým noc neskonči...
-
-#### Prerefrén
-
-[B] [A]
-
-#### Refrén
-
-[E]==========[G]===========[D]===========[A]
-Nikdy nebolo lepšie, ako v túto noc nech trvá večne.
-[E]==========[G]===========[D]===========[A]
-Celé nebo je jasné, až do rána pokiaľ mesiac zhasne.
-[E]==========[G]===========[D]===========[A]
-Nikdy nebolo lepšie, ako v túto noc nech trvá večne.
-[E]==========[G]===========[D]===========[A]
-Celé nebo je jasné, až do rána pokiaľ mesiac zhasne.
+{start_of_chorus}
+[E]Nikdy nebolo [G]lepšie, ako v [D]túto noc nech [A]trvá večne.
+[E]Celé nebo je [G]jasné, až do r[D]ána pokiaľ mes[A]iac zhasne.
+[E]Nikdy nebolo [G]lepšie, ako v [D]túto noc nech [A]trvá večne.
+[E]Celé nebo je [G]jasné, až do r[D]ána pokiaľ mes[A]iac zhasne.
+{end_of_chorus}

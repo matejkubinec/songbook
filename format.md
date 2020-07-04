@@ -18,6 +18,11 @@ Direktívy sú oddelené pomocou zložených zátvoriek ('{' and '}').
 - **{end_of_tab} ({eot})** - Koniec sekcie tabulatúr.
 - **{guitar_comment: _reťazec_} ({gc: _reťazec_})** - Komentár, tlačený len keď
   sa tlačia akordy.
+- **{key: _reťazec_}** - kľúč
+- **{capo: _číslo_}** - kapodaster
+- **{tempo: _číslo_}**
+- **{start_of_grid: _reťazec_}**
+- **{end_of_grid}**
 
 ## Akordy
 

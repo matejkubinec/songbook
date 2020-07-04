@@ -1,100 +1,76 @@
-# Elán - Bosorka
+{artist:Elán}
+{title:Bosorka}
 
-#### Intro
+{start_of_grid}
+| [C] . . . | [G] . . . | [Ami] . . . | [F] . . . |
+| [C] . . . | [G] . . . | [Ami] . . . | [F] . [G] . |
+{end_of_grid}
 
-[C] [G] [Ami] [F] | [C] [G] [Ami] [F]-[G]
+{start_of_verse}
+[C]Má všade [G]jemnučké [Ami]chĺpky jak [F]broskyňa
+[C]Chcem po [G]nich prst[Ami]ami na zajt[F]ra spomínať
+[C]Aj keď sa[G] stretnem[Ami]e, pozeráš [F]do zeme
+[C]Vždy si t[G]o tajomst[Ami]vo očami po[F]vieme
+[C]    [G]    [F]Očami [G]povieme
+[C]    [G]    [F]Očami [G]povieme
 
-#### Sloha
+[D]Teba raz [A]pristihnú, [Hmi]usvedčia, [G]odhalia
+[D]Vyhlásia [A]za svätú[Hmi] alebo [G]upália
+[D]Ty si tá [A]bosorka z k[Hmi]rajiny Ma[G]rlboro,
+[D]Ktorá sa [A]ukrýva v[Hmi] rockových [G]kláštoroch
+[D]    [A]     [Hmi]V rockových[G] kláštoroch
+[D]    [A]     [Hmi]V rockových[G] kláštoroch
+{end_of_verse}
 
-[C]      [G]      [Ami]      [F]
-Má všade jemnučké chĺpky jak broskyňa
-[C]      [G]      [Ami]      [F]
-Chcem po nich prstami na zajtra spomínať
-[C]      [G]      [Ami]      [F]
-Aj keď sa stretneme, pozeráš do zeme
-[C]      [G]      [Ami]      [F]
-Vždy si to tajomstvo očami povieme
-[C] [G] [F]   [G]
-        Očami povieme
-[C] [G] [F]   [G]
-        Očami povieme
+{start_of_chorus}
+[E]Prečo si[H] mi uti[C#mi]ekla?  [A]
+[E]Prečo s[G#mi]a mi skr[A]ývaš?[H]
+[E]Stále sa[H] mi mil[C#mi]uje,   [A]
+[E]Že sa s[G#mi] tebou snívam[H]
+{end_of_chorus}
 
-[D]      [A]        [Hmi]     [G]
-Teba raz pristihnú, usvedčia, odhalia
-[D]      [A]     [Hmi]  [G]
-Vyhlásia za svätú alebo upália
-[D]      [A]        [Hmi]    [G]
-Ty si tá bosorka z krajiny Marlboro,
-[D]      [A]     [Hmi]      [G]
-Ktorá sa ukrýva v rockových kláštoroch
-[D] [A]  [Hmi]      [G]
-         V rockových kláštoroch
-[D] [A]  [Hmi]      [G]
-         V rockových kláštoroch
+{start_of_verse}
+[C]Ani s[G]me sa[Ami] nehľad[F]ali 
+[C]a pre[G]dsa s[Ami]me sa n[F]ašli
+[C]Ani s[G]me to[Ami] netuši[F]li 
+[C]a bol[G]i sme[Ami] jasní [F]    
 
-#### Refrén
+[D]V piv[A]árni [Hmi]sa pilo[G] málo,
+[D]dal s[A]om si[Hmi] tri pi[G]vá
+[D]V noc[A]i sa [Hmi]mi milo[G]valo,
+[D]že sa[A] s te[Hmi]bou sní[G]vam
+{end_of_verse}
 
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]  [A]  [H]
-Prečo si mi utiekla?      | Prečo sa mi skrývaš?
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]       [H]
-Stále sa mi miluje,       | Že sa s tebou snívam
+{start_of_chorus}
+[E]Prečo si[H] mi uti[C#mi]ekla?  [A]
+[E]Prečo s[G#mi]a mi skr[A]ývaš?  [H]   
+[E]Stále sa[H] mi mil[C#mi]uje,   [A]
+[E]Že sa s[G#mi] tebou s[A]nívam  [H]   
+[E]Prečo si[H] ma uri[C#mi]ekla?  [A]
+[E]V noci [G#mi]sa odkrý[A]vam    [H]    
+[E]Stále sa[H] mi mil[C#mi]uje,   [A]
+[E]Že sa s[G#mi] tebou snívam[H]
+{end_of_chorus}
 
-#### Sloha
+{start_of_verse}
+[C]Teba raz [G]pristihnú, [Ami]usvedčia,[F] odhalia
+[C]Vyhlásia [G]za svätú al[Ami]ebo upáli[F]a
+  
+[C]Pre mňa t[G]o bude už b[Ami]ohužiaľ n[F]eskoro
+[C]    [G]    [F]Ooou b[G]ohužiaľ neskoro
+[C]    [G]    [F]Ooou b[G]ohužiaľ neskoro
 
-[C]  [G]  [Ami]  [F]
-Ani sme sa nehľadali 
-[C]  [G]  [Ami]  [F]
-a predsa sme sa našli
-[C]  [G]  [Ami]  [F]
-Ani sme to netušili 
-[C]  [G]  [Ami]  [F]
-a boli sme jasní
+[D]    [A]     [Hmi]Ooou milova[G]ť bosorku
+[D]    [A]     [Hmi]Ooou v rock[G]ových kláštoroch
+{end_of_verse}
 
-[D]  [A]  [Hmi]  [G]
-V pivárni sa pilo málo,
-[D]  [A]  [Hmi]  [G]
-dal som si tri pivá
-[D]  [A]  [Hmi]  [G]
-V noci sa mi milovalo,
-[D]  [A]  [Hmi]  [G]
-že sa s tebou snívam
-
-#### Refrén
-
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]  [A]  [H]
-Prečo si mi utiekla?      | Prečo sa mi skrývaš?
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]  [A]  [H]
-Stále sa mi miluje,       | Že sa s tebou snívam
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]  [A]  [H]
-Prečo si ma uriekla?      | V noci sa odkrývam
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]       [H]
-Stále sa mi miluje,       | Že sa s tebou snívam
-
-#### Sloha
-
-[C]      [G]        [Ami]    [F]
-Teba raz pristihnú, usvedčia, odhalia
-[C]      [G]        [Ami]    [F]
-Vyhlásia za svätú alebo upália
-[C]      [G]        [Ami]    [F]
-Pre mňa to bude už bohužiaľ neskoro
-[C] [G] [F]   [G]
-        Ooou bohužiaľ neskoro
-[C] [G] [F]   [G]
-        Ooou bohužiaľ neskoro
-
-[D] [A]  [Hmi]      [G]
-         Ooou milovať bosorku
-[D] [A]  [Hmi]      [G]
-         Ooou v rockových kláštoroch
-
-#### Refrén
-
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]  [A]  [H]
-Prečo si mi utiekla?      | Prečo sa mi skrývaš?
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]  [A]  [H]
-Stále sa mi miluje,       | Že sa s tebou snívam
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]  [A]  [H]
-Prečo si ma uriekla?      | V noci sa odkrývam
-[E]     [H]    [C#mi] [A] | [E]    [G#mi]       [H]
-Stále sa mi miluje,       | Že sa s tebou snívam
+{start_of_chorus}
+[E]Prečo si[H] mi uti[C#mi]ekla?  [A]
+[E]Prečo s[G#mi]a mi skr[A]ývaš?[H]
+[E]Stále sa[H] mi mil[C#mi]uje,   [A]
+[E]Že sa s[G#mi] tebou s[A]nívam[H]
+[E]Prečo si[H] ma uri[C#mi]ekla?  [A]
+[E]V noci [G#mi]sa odkrý[A]vam [H]    
+[E]Stále sa[H] mi mil[C#mi]uje,   [A]
+[E]Že sa s[G#mi] tebou snívam[H]
+{end_of_chorus}

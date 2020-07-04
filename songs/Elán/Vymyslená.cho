@@ -1,69 +1,47 @@
-# Elán - Vymyslená
+{artist:Elán}
+{title:Vymyslená}
 
-#### Intro
+{start_of_grid}
+| [C] . . . | [G] . . . | [C] . . . | [G] . . . |
+| [C] . . . | [G] . . . | [C] . . . | [G] . . . |
+{end_of_grid}
 
-[C] [G] | [C] [G] | [C] [G] | [C] [G]
+{start_of_verse}
+[C]Čakám ju pred [G]domom, [F]prší mi za g[C]olier
+[C]Odkiaľ sa pozn[G]áme, ni[F]komu nepovie[C]m
+[C]Klasicky hanbl[G]ivá, sm[F]eje sa očami[C]
+[C]má sinku na la[G]kti, a [F]tašku od mam[C]y.
+{end_of_verse}
 
-#### Sloha
+{start_of_chorus}
+[Ami]Chcem s ňou ísť,[F] vláčikom. na [G]výlet do [C]Modry
+[Ami]Najprv sa poškri[F]epiť, pot[G]om sa udo[C]briť
+[Ami]Mať svoje tajoms[F]tvá zamknúť [G]ich na kľ[C]účik
+[Ami]držať sa za ruky[F], nechcieť[G] sa rozlú[C]čiť
 
-[C]           [G]    [F]         [C]
-Čakám ju pred domom, prší mi za golier
-[C]           [G]    [F]         [C]
-Odkiaľ sa poznáme, nikomu nepoviem
-[C]           [G]    [F]         [C]
-Klasicky hanblivá, smeje sa očami
-[C]           [G]    [F]         [C]
-má sinku na lakti, a tašku od mamy.
+[F]Vymý[G]šľať[C] priateľom [F]bláz[G]nivé[C] mená
+[Ami]Škoda, že j[F]e, škoda, [G]že je iba[C] vymyslená.
+[Ami]Škoda, že j[F]e, škoda, [G]že je iba[C] vymyslená.
+{end_of_chorus}
 
-#### Refrén
+{start_of_grid}
+| [C] . . . | [G] . . . | [C] . . . | [G] . . . |
+| [C] . . . | [G] . . . | [C] . . . | [G] . . . |
+{end_of_grid}
 
-[Ami]           [F]           [G]      [C]
-Chcem s ňou ísť, vláčikom. na výlet do Modry
-[Ami]           [F]      [G]      [C]
-Najprv sa poškriepiť, potom sa udobriť
-[Ami]           [F]         [G]      [C]
-Mať svoje tajomstvá zamknúť ich na kľúčik
-[Ami]           [F]       [G]      [C]
-držať sa za ruky, nechcieť sa rozlúčiť
+{start_of_verse}
+[C]Čakám ju pred [G]domom, [F]prší mi za g[C]olier
+[C]odkiaľ sa pozn[G]áme, ni[F]komu nepovie[C]m
+{end_of_verse}
+  
+{start_of_chorus}
+[Ami]Chcem s ňou ísť,[F] vláčikom. na [G]výlet do [C]Modry
+[Ami]Najprv sa poškri[F]epiť, pot[G]om sa udo[C]briť
+[Ami]Mať svoje tajoms[F]tvá zamknúť [G]ich na kľ[C]účik
+[Ami]držať sa za ruky[F], nechcieť[G] sa rozlú[C]čiť
 
-##
-
-[F] [G] [C]        [F] [G] [C]
-Vymýšľať priateľom bláznivé mená
-[Ami]      [F]       [G]      [C]
-Škoda, že je, škoda, že je iba vymyslená.
-[Ami]      [F]       [G]      [C]
-Škoda, že je, škoda, že je iba vymyslená.
-
-#### Prechod
-
-[C] [G] | [C] [G] | [C] [G] | [C] [G]
-
-#### Sloha
-
-[C]           [G]    [F]         [C]
-Čakám ju pred domom, prší mi za golier
-[C]           [G]    [F]         [C]
-odkiaľ sa poznáme, nikomu nepoviem
-
-#### Refrén
-
-[Ami]           [F]           [G]      [C]
-Chcem s ňou ísť, vláčikom. na výlet do Modry
-[Ami]           [F]      [G]      [C]
-Najprv sa poškriepiť, potom sa udobriť
-[Ami]           [F]         [G]      [C]
-Mať svoje tajomstvá zamknúť ich na kľúčik
-[Ami]           [F]       [G]      [C]
-držať sa za ruky, nechcieť sa rozlúčiť
-
-##
-
-[F] [G] [C]        [F] [G] [C]
-Vymýšľať priateľom bláznivé mená
-[Ami]      [F]       [G]      [C]
-Škoda, že je, škoda, že je iba vymyslená.
-[Ami]      [F]       [G]      [C]
-Škoda, že je, škoda, že je iba vymyslená.
-[Ami]      [F]       [G]      [C]
-Škoda, že je, škoda, že je iba vymyslená.
+[F]Vymý[G]šľať[C] priateľom [F]bláz[G]nivé[C] mená
+[Ami]Škoda, že j[F]e, škoda, [G]že je iba[C] vymyslená.
+[Ami]Škoda, že j[F]e, škoda, [G]že je iba[C] vymyslená.
+[Ami]Škoda, že j[F]e, škoda, [G]že je iba[C] vymyslená.
+{end_of_chorus}
