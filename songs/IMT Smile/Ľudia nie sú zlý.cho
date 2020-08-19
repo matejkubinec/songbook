@@ -1,65 +1,41 @@
-# IMT SMILE - Ľudia nie sú zlí
+{artist: IMT SMILE}
+{title: Ľudia nie sú zlí}
 
-#### Intro
+# TODO: intro
+# [E]    [H]    [C#mi]       [A]      [E]    [H]    [C#mi]       [A]      [E]    [H]    [C#mi]       [A]      [E]    [H]    [C#mi]       [A]    
 
-[E] [H] [C#mi] [A] | [E] [H] [C#mi] [A] | [E] [H] [C#mi] [A] | [E] [H] [C#mi] [A]
+{start_of_verse}
+[E]Zlodejov je také [H]kvantum, [C#mi]že si kradnú navz[A]ájom.
+[E]Boh sa túla iba s[H]ám tu a h[C#mi]ľadá si podnájom.[A]
+[E]V daždi šuštia vk[H]ladné kni[C#mi]žky, na toto sa č[A]akalo.
+[E]Dobrú noc nám daj[H]ú líšky, [C#mi]dobrú noc nám šak[A]alom.
+{end_of_verse}
 
-#### Sloha
+{start_of_chorus}
+[E]Kašli drahá na sl[H]zy, Odvle[C#mi]čiem ťa do herne.[A]
+[E]Ľudia vôbec nie s[H]ú zlí, le[C#mi]n ľudstvo je príš[A]erné.
+{end_of_chorus}
 
+{start_of_verse}
+[E]Prváci si v kveti[H]náčoch na[C#mi]sadili marišku[A]
+[E]Nik nečaká niet u[H]ž na čo K[C#mi]oniec sveta nablí[A]zku.
+[E]Holohlaví pred ko[H]stolom up[C#mi]álili anjela[A]
+[E]Dobre že vraj už [H]raz bolo [C#mi]diabol vodku nali[A]eva.
+{end_of_verse}
 
-[E]              [H]      [C#mi]           [A]
-Zlodejov je také kvantum, že si kradnú navzájom.
-[E]              [H]      [C#mi]           [A]
-Boh sa túla iba sám tu a hľadá si podnájom.
+{start_of_chorus}
+[E]Kašli drahá na sl[H]zy, Odvle[C#mi]čiem ťa do herne.[A]
+[E]Ľudia vôbec nie s[H]ú zlí, le[C#mi]n ľudstvo je príš[A]erné.
+[E]Kašli drahá na sl[H]zy, Odvle[C#mi]čiem ťa do herne.[A]
+[E]Ľudia vôbec nie s[H]ú zlí, le[C#mi]n ľudstvo je príš[A]erné.
+{end_of_chorus}
 
-[E]              [H]      [C#mi]           [A]
-V daždi šuštia vkladné knižky, na toto sa čakalo.
-[E]              [H]      [C#mi]           [A]
-Dobrú noc nám dajú líšky, dobrú noc nám šakalom.
+# TODO: prechod
+# [E] [H]    [C#mi]       [A]      [E]    [H]    [C#mi]       [A]      [E]    [H]    [C#mi]       [A]      [E]    [H]    [C#mi]       [A]    
 
-##### Refrén
-
-[E]              [H]      [C#mi]           [A]
-Kašli drahá na slzy, Odvlečiem ťa do herne.
-[E]              [H]      [C#mi]           [A]
-Ľudia vôbec nie sú zlí, len ľudstvo je príšerné.
-
-#### Sloha
-
-[E]              [H]      [C#mi]           [A]
-Prváci si v kvetináčoch nasadili marišku
-[E]              [H]      [C#mi]           [A]
-Nik nečaká niet už na čo Koniec sveta nablízku.
-
-[E]              [H]      [C#mi]           [A]
-Holohlaví pred kostolom upálili anjela
-[E]              [H]      [C#mi]           [A]
-Dobre že vraj už raz bolo diabol vodku nalieva. 
-
-##### Refrén (2x)
-
-[E]              [H]      [C#mi]           [A]
-Kašli drahá na slzy, Odvlečiem ťa do herne.
-[E]              [H]      [C#mi]           [A]
-Ľudia vôbec nie sú zlí, len ľudstvo je príšerné.
-
-[E]              [H]      [C#mi]           [A]
-Kašli drahá na slzy, Odvlečiem ťa do herne.
-[E]              [H]      [C#mi]           [A]
-Ľudia vôbec nie sú zlí, len ľudstvo je príšerné.
-
-#### Prechod
-
-[E] [H] [C#mi] [A] | [E] [H] [C#mi] [A] | [E] [H] [C#mi] [A] | [E] [H] [C#mi] [A]
-
-##### Refrén (2x)
-
-[E]              [H]      [C#mi]           [A]
-Kašli drahá na slzy, Odvlečiem ťa do herne.
-[E]              [H]      [C#mi]           [A]
-Ľudia vôbec nie sú zlí, len ľudstvo je príšerné.
-
-[E]              [H]      [C#mi]           [A]
-Kašli drahá na slzy, Odvlečiem ťa do herne.
-[E]              [H]      [C#mi]           [A]
-Ľudia vôbec nie sú zlí, len ľudstvo je príšerné.
+{start_of_chorus}
+[E]Kašli drahá na sl[H]zy, Odvle[C#mi]čiem ťa do herne.[A]
+[E]Ľudia vôbec nie s[H]ú zlí, le[C#mi]n ľudstvo je príš[A]erné.
+[E]Kašli drahá na sl[H]zy, Odvle[C#mi]čiem ťa do herne.[A]
+[E]Ľudia vôbec nie s[H]ú zlí, le[C#mi]n ľudstvo je príš[A]erné.
+{end_of_chorus}

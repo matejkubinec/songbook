@@ -1,36 +1,45 @@
-# Horkýže Slíže - Traja spitý roboši
+{artist:Horkýže Slíže}
+{title:Traja spitý roboši}
 
-[G] [A#] [C] [C#] | [G] [A#] [C] [C#] | [G] [A#] [C] [C#] | [G] [A#] [C] [C#]
+{start_of_grid: Intro}
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+{end_of_grid}
 
-[G] [A#] [C] [C#]
-Traja spití roboši dokončili podlahu.
-[G] [A#] [C] [C#]
-Prišiel stavbyvedúci a chytal sa za hlavu,
-[G] [A#] [C] [C#]
-Čo ste to, vy debili, čo ste to porobili?
-[G] [A#] [C] [C#]
-Hovoril som vám, aby ste zrána nepili!
-[G]
-Ale vy nie! Vy jak takí debili!
+{start_of_verse}
+[G]Traj[A#]a spi[C]tí r[C#]oboši dokončili podlahu.
+[G]Priš[A#]iel s[C]tavb[C#]yvedúci a chytal sa za hlavu,
+[G]Čo s[A#]te to[C], vy[C#] debili, čo ste to porobili?
+[G]Hovo[A#]ril s[C]om v[C#]ám, aby ste zrána nepili!
+[G]Ale vy nie! Vy jak takí debili!
+{end_of_verse}
 
-[G] [A#] [C] [C#] | [G] [A#] [C] [C#] | [G] [A#] [C] [C#] | [G] [A#] [C] [C#]
+{start_of_grid: Prechod}
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+| [C#] [C] [A#] [G] |
+| [C#] [C] [A#] [G] |
 
-[C#] [C] [A#] [G] | [C#] [C] [A#] [G] 
+{start_of_verse}
+[C#]Tak t[C]o ma[A#]jster[G], tak to pardón!
+[C#]Ešte [C]dáme[A#] sadr[G]okartón,
+[C#]do ro[C]hu s[A#]a skr[G]iňa oprie,
+[G]a mu[A#]sí to[C] byť[C#] ***a dobré.
+{end_of_verse}
 
-[C#] [C] [A#] [G]
-Tak to majster, tak to pardón!
-[C#] [C] [A#] [G]
-Ešte dáme sadrokartón,
-[C#] [C] [A#] [G]
-do rohu sa skriňa oprie,
-[G] [A#] [C] [C#]
-a musí to byť ***a dobré.
+{start_of_grid}
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+| [G] [A#] [C] [C#] |
+{end_of_grid}
 
-[G] [A#] [C] [C#] | [G] [A#] [C] [C#] | [G] [A#] [C] [C#] | [G] [A#] [C] [C#]
-
-[G]
-Ak tu niečo, ako vy hovoríte,
+{start_of_verse}
+[G]Ak tu niečo, ako vy hovoríte,
 musí byť dobré, tak vám, chlapi,
-musí dobre sakramensky ***!
-
-[G]
+musí dobre sakramensky ***![G]
+{end_of_verse}

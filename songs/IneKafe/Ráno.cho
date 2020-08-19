@@ -1,103 +1,70 @@
-# IneKafe - Ráno
+{artist: IneKafe}
+{title: Ráno}
 
-## Intro
+{sog: Intro}
+| [Ami] |
+{eog}
 
-[Ami]
+{sov: Sloha 1}
+[Ami]Keď máš doma opäť ďalší[F] problém,
+[G]keď fotra s matkou berú[C] zas tie staré mindráky,
+[Ami]že neuspel si opäť v šk[F]ole,
+[G]jak sa to správaš a čo [C]to nosí[C/H]š za známky.
+[Ami]Keď frajerka ti spáva s[F] iným,
+[G]s ktorým si včera pil m[C]inimálne do rána.
+[Ami]A sám si opäť zostal s [F]tými,
+[G]ktorí ťa vedú nevieš kam.
+{eov}
 
-## Sloha
+{soc: Refrén 1}
+[Ami]Keď včera bola [F]tma, tak d[G]nes príde ráno
+[C]a s ním sa skon[F]čí sen, čo[G] kradol ti spánok.
+[Ami]A svitanie ti ú[F]smev na tv[G]ári pripraví.
+[Ami]A ty vyhráš ten[F] boj o kľú[G]če od klietky
+[C]a aj keď budeš [F]sám, sám p[G]roti všetkým,
+[Ami]ešte nič nekonč[F]í, naopak,[G] všetko práve začína.
+{eoc}
 
-[Ami]                  [F]
-Keď máš doma opäť ďalší problém,
-[G]                    [C]
-keď fotra s matkou berú zas tie staré mindráky,
-[Ami]                  [F]
-že neuspel si opäť v škole,
-[G]                    [C]    [C/H]
-jak sa to správaš a čo to nosíš za známky.
-[Ami]                  [F]
-Keď frajerka ti spáva s iným,
-[G]                    [C]
-s ktorým si včera pil minimálne do rána.
-[Ami]                  [F]
-A sám si opäť zostal s tými,
-[G]
-ktorí ťa vedú nevieš kam.
+{sog: Prechod}
+| [Ami] |
+{eog}
 
-## Refren
+{sov: Sloha 2}
+[Ami]Keď ti v televízii veľk[F]í klamú,
+[G]všemožne snažia sa zakr[C]yť svoje omyly.
+[Ami]A na ulici by ťa fízli [F]za cigu z trávy
+[G]najradšej do basy hodil[C]i. [H]
+[Ami]A kruh sa ti už uzatvár[F]a, už je ti jasné,
+[G]život nebeží, jak by si[C] chcel.
+[Ami]Ešte ti tu zostáva náde[F]j
+[G]a končiť s tým prečo.
+{eov}
 
-[Ami]          [F]       [G]
-Keď včera bola tma, tak dnes príde ráno
-[C]            [F]       [G]
-a s ním sa skončí sen, čo kradol ti spánok.
-[Ami]          [F]       [G]
-A svitanie ti úsmev na tvári pripraví.
-[Ami]          [F]       [G]
-A ty vyhráš ten boj o kľúče od klietky
-[C]            [F]       [G]
-a aj keď budeš sám, sám proti všetkým,
-[Ami]          [F]       [G]
-ešte nič nekončí, naopak, všetko práve začína.
+{soc: Refren 2}
+[Ami]Keď včera bola [F]tma, tak d[G]nes príde ráno
+[C]a s ním sa skon[F]čí sen, čo[G] kradol ti spánok.
+[Ami]A svitanie ti ú[F]smev na tv[G]ári pripraví.
+[Ami]A ty vyhráš ten[F] boj o kľú[G]če od klietky
+[C]a aj keď budeš [F]sám, sám p[G]roti všetkým,
+[Ami]ešte nič nekonč[F]í, naopak,[G] všetko práve začína.
+{eoc}
 
-## Prechod
+{sog: Sólo}
+| [Ami] [F] [G] [C] |
+| [Ami] [F] [G] [C]-[H] |
+| [Ami] [F] [G] [C] |
+| [Ami] [F] [G] |
+{eog}
 
-[Ami]
-
-## Sloha
-
-[Ami]                  [F]
-Keď ti v televízii veľkí klamú,
-[G]                    [C]
-všemožne snažia sa zakryť svoje omyly.
-[Ami]                  [F]
-A na ulici by ťa fízli za cigu z trávy
-[G]                    [C]  [H]
-najradšej do basy hodili.
-[Ami]                  [F]
-A kruh sa ti už uzatvára, už je ti jasné,
-[G]                    [C]
-život nebeží, jak by si chcel.
-[Ami]                  [F]
-Ešte ti tu zostáva nádej
-[G]
-a končiť s tým prečo.
-
-## Refren
-
-[Ami]          [F]       [G]
-Keď včera bola tma, tak dnes príde ráno
-[C]            [F]       [G]
-a s ním sa skončí sen, čo kradol ti spánok.
-[Ami]          [F]       [G]
-A svitanie ti úsmev na tvári pripraví.
-[Ami]          [F]       [G]
-A ty vyhráš ten boj o kľúče od klietky
-[C]            [F]       [G]
-a aj keď budeš sám, sám proti všetkým,
-[Ami]          [F]       [G]
-ešte nič nekončí, naopak, všetko práve začína.
-
-## Solo
-
-[Ami] [F] [G] [C] | [Ami] [F] [G] [C]-[H]
-[Ami] [F] [G] [C] | [Ami] [F] [G]
-
-(ako sloha)
-
-## Refren (iba spev)
-
+{soc: Refrén 3}
 Keď včera bola tma, tak dnes príde ráno
 a s ním sa skončí sen, čo kradol ti spánok.
 A svitanie ti úsmev na tvári pripraví.
+[Ami]A ty vyhráš ten[F] boj o kľú[G]če od klietky
+[C]a aj keď budeš [F]sám, sám p[G]roti všetkým,
+[Ami]ešte nič nekonč[F]í, naopak,[G] všetko práve začína.
+{eoc}
 
-## Refren (pokracovanie)
-
-[Ami]          [F]       [G]
-A ty vyhráš ten boj o kľúče od klietky
-[C]            [F]       [G]
-a aj keď budeš sám, sám proti všetkým,
-[Ami]          [F]       [G]
-ešte nič nekončí, naopak, všetko práve začína.
-
-## Outro
-
-[Ami]
+{sog: Outro}
+| [Ami] |
+{eog}
